@@ -1,0 +1,10 @@
+
+.vs/
+
+PrimeService/obj/
+
+PrimeService/bin/
+
+PrimeService.Tests/obj/
+
+PrimeService.Tests/bin/
